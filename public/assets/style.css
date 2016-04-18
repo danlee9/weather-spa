@@ -1,0 +1,12 @@
+body {
+	background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+h4, p, a {
+	color: white;
+}
+
+.custom {
+	margin-top: 10%;
+}
